@@ -123,13 +123,3 @@ src/main/java/com/libraryManagementSystem/codes
  └─ exception/   # GlobalExceptionHandler, custom exceptions
 Contributing
 Fork the repo and create a feature branch from main.​
-
-Use conventional commits and include tests where applicable.​
-
-Open a PR with a clear description and screenshots/GIFs.​
-
-Badges you can add to PRs and actions:
-
-Build/CI: https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions​
-
-Code style: https://img.shields.io/badge/Style-Google_Java-blue?style=for-the-badge​

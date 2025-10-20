@@ -1,7 +1,5 @@
 Library Management System - LMS
-[![Project Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo1][2]
 
-![Hero](https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto
 
 Short Description
 A production-ready Spring Boot backend for managing books, users, and borrow/return workflows with clean DTOs, mappers, validation, and global exception handling, built for speed, clarity, and extensibility.​
